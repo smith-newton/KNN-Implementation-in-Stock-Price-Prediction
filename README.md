@@ -79,23 +79,6 @@ pip install -r requirements.txt
 jupyter notebook knn_implementation_in_stock.ipynb
 
 4. Execute all cells to reproduce results
-Future Enhancements
 
-Add LSTM/Transformer-based models for comparison
 
-Automate daily stock data pulling
 
-Deploy predictions using a Flask/FastAPI backend
-
-Build dashboards with Streamlit
-
-Project Motivation
-
-This project helps demonstrate:
-
-Practical application of ML algorithms
-
-Real-world data processing skills
-
-Understanding of regression, evaluation metrics, and modelling limitations
-It is ideal for showcasing competencies in Data Science and AI Engineering during interviews.
