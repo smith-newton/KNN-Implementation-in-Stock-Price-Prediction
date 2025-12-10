@@ -45,13 +45,8 @@ Metrics included:
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
-Visualizations:
-Line plot comparing predicted vs. actual values
-Error distribution plots (if implemented)
 
-Technologies Used
-
-
+Technologies Used:
 Python
 NumPy, Pandas
 Scikit-learn
